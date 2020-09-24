@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pytest-nice
+Version: 0.1.0
+Summary: A pytest plugin to turn FAILURE into OPPORTUNITY
+Home-page: https://example.com
+Author: hogehoge
+Author-email: hoge@example.com
+License: proprietary
+Description: UNKNOWN
+Platform: UNKNOWN

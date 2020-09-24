@@ -1,0 +1,6 @@
+# 除外するディレクトリ
+__pycahce__/
+.pytest_cache/
+
+# 除外する拡張子ファイル
+*.code-workspace
